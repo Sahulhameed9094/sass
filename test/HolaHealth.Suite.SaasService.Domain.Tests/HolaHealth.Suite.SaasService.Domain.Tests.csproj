@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>HolaHealth.Suite.SaasService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\HolaHealth.Suite.SaasService.Domain\HolaHealth.Suite.SaasService.Domain.csproj" />
+    <ProjectReference Include="..\HolaHealth.Suite.SaasService.TestBase\HolaHealth.Suite.SaasService.TestBase.csproj" />
+  </ItemGroup>
+
+</Project>

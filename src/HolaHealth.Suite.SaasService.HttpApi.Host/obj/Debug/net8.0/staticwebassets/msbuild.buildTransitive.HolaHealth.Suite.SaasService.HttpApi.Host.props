@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HolaHealth.Suite.SaasService.HttpApi.Host.props" />
+</Project>

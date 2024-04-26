@@ -1,0 +1,58 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "HolaHealth.Suite.SaasService.HttpApi": {
+      "path": "src/HolaHealth.Suite.SaasService.HttpApi/HolaHealth.Suite.SaasService.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.Application.Contracts": {
+      "path": "src/HolaHealth.Suite.SaasService.Application.Contracts/HolaHealth.Suite.SaasService.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.Application": {
+      "path": "src/HolaHealth.Suite.SaasService.Application/HolaHealth.Suite.SaasService.Application.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.Domain.Shared": {
+      "path": "src/HolaHealth.Suite.SaasService.Domain.Shared/HolaHealth.Suite.SaasService.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.Domain": {
+      "path": "src/HolaHealth.Suite.SaasService.Domain/HolaHealth.Suite.SaasService.Domain.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.EntityFrameworkCore": {
+      "path": "src/HolaHealth.Suite.SaasService.EntityFrameworkCore/HolaHealth.Suite.SaasService.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.HttpApi.Client": {
+      "path": "src/HolaHealth.Suite.SaasService.HttpApi.Client/HolaHealth.Suite.SaasService.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.HttpApi.Host": {
+      "path": "src/HolaHealth.Suite.SaasService.HttpApi.Host/HolaHealth.Suite.SaasService.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "HolaHealth.Suite.SaasService.TestBase": {
+      "path": "test/HolaHealth.Suite.SaasService.TestBase/HolaHealth.Suite.SaasService.TestBase.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.SaasService.Domain.Tests": {
+      "path": "test/HolaHealth.Suite.SaasService.Domain.Tests/HolaHealth.Suite.SaasService.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.SaasService.EntityFrameworkCore.Tests": {
+      "path": "test/HolaHealth.Suite.SaasService.EntityFrameworkCore.Tests/HolaHealth.Suite.SaasService.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "HolaHealth.Suite.MicroserviceName.Application.Tests": {
+      "path": "test/HolaHealth.Suite.SaasService.Application.Tests/HolaHealth.Suite.SaasService.Application.Tests.abppkg",
+      "folder": "test"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.deps.json
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.Application.Contracts.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.Domain.Shared.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.Application.Contracts.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\bin\Debug\netstandard2.0\HolaHealth.Suite.SaasService.Domain.Shared.pdb
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.csproj.AssemblyReference.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.AssemblyInfoInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.AssemblyInfo.cs
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.csproj.CoreCompileInputs.cache
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHeal.997BF1D5.Up2Date
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.dll
+D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Client\obj\Debug\netstandard2.0\HolaHealth.Suite.SaasService.HttpApi.Client.pdb

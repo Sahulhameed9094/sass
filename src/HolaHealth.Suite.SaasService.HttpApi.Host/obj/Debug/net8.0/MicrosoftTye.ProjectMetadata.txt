@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0+fb62929bb0fecb9aa9d6cba430576be5ea991b5c
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Host\bin\Debug\net8.0\HolaHealth.Suite.SaasService.HttpApi.Host.exe
+RunArguments:
+TargetPath: D:\Microservice\latest  03262024\HolaHealth.Suite\services\saas\src\HolaHealth.Suite.SaasService.HttpApi.Host\bin\Debug\net8.0\HolaHealth.Suite.SaasService.HttpApi.Host.dll
+PublishDir: bin\Debug\net8.0\publish\
+AssemblyName: HolaHealth.Suite.SaasService.HttpApi.Host
+IntermediateOutputPath: obj\Debug\net8.0\
+TargetFramework: net8.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 8.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
+AzureFunctionsVersion:

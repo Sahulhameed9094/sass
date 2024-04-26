@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLl0QlZCHXSErDHv3GTWS/1YmgrSDnp0KXM77Mkv/rs=",
+  "Source": "HolaHealth.Suite.SaasService.HttpApi.Host",
+  "BasePath": "_content/HolaHealth.Suite.SaasService.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
